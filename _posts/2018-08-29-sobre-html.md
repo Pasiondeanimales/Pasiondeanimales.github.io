@@ -21,7 +21,6 @@ Hay diferentes tipos de leopardos:
 ·Leopardos marinos
 
 <hr>
-<br>
 
 **El leopardo de las nieves** es una especie de mamífero carnívoro de la familia Felidae propia de las montañas de Asia Central.
 
