@@ -3,7 +3,7 @@ layout: post
 title: Los leopardos
 date: 2018-08-29
 description: Información sobre los leopardos
-img: html-img.jpg 
+img: leopardo.jpg
 fig-caption: 
 tags: [Animales]
 ---
