@@ -21,4 +21,5 @@ Hay diferentes tipos de delfines:
 ** Delfín nariz de botella 
 ** Delfín oscuro 
 ** Delfín austral 
-** Delfín Blanco 
+** Delfín Blanco
+<hr>
