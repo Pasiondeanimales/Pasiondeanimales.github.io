@@ -25,7 +25,7 @@ Hay muchas razas diferentes de perro:
 * Los Dachshunds
 * Los Poodle 
 * El Shih Tzu
-<br>
+<hr>
 
  **El Ladrador Retriever** siempre ha sido votado como la raza de perro más popular desde 1991. Muchas familias de todo el mundo han disfrutado o están disfrutando de la compañía de uno. La raza es muy querida por ser muy inteligente, afectuosa y paciente con los niños. Un Labrador nunca deja pasar la oportunidad de jugar y pasar un buen rato. Les encanta el agua y siempre están listos para ir a nadar. Puesto que pueden llegar a tener de 60-75 libras, deben recibir entrenamiento de obediencia para frenar su instinto por salir de golpe o caminar por delante de sus dueños.
  
