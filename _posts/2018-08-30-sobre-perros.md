@@ -3,7 +3,7 @@ layout: post
 title: Los perros
 date: 2018-08-30
 description: Información sobre los perros
-img: leopardo2.jpg
+img: perros.jpg
 fig-caption: 
 tags: [Animales]
 ---
