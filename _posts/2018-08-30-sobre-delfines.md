@@ -16,10 +16,10 @@ además utilizan la ecolocalización. Hoy en día, las principales amenazas a la
 
 Hay diferentes tipos de delfines:
 <br>
-** Delfín común costero 
-** Delfín común oceánico 
-** Delfín nariz de botella 
-** Delfín oscuro 
-** Delfín austral 
-** Delfín Blanco
+* Delfín común costero 
+* Delfín común oceánico 
+* Delfín nariz de botella 
+* Delfín oscuro 
+* Delfín austral 
+* Delfín Blanco
 <hr>
