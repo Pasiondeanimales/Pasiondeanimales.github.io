@@ -49,4 +49,4 @@ Hay muchas razas diferentes de perro:
 
 **Los Bóxer** son amigables y juguetones, con los niños son tolerantes y pacientes. Aunque cautelosos con los desconocidos y caras nuevas, pueden llegar a ser muy amable y jugar con extraños. Salta sobre las personas y puede llegar a ser demasiado bullicioso. Con el entrenamiento adecuado puede convertirse en un buen perro guardián. La socialización temprana y la obediencia de formación son muy importantes. Puede vivir bien con niños y otros animales domésticos.
 
-<img src="/assets/img/perrito3.jpg" width="480" alt="HTML"/>
+<img src="/assets/img/perrito3.jpg" width="480" alt="perro"/>
